@@ -1,0 +1,328 @@
+"Task: test1, Test Name: Logo is present on the page, DOM Id: IMG____9, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: I can see HOME menu link contains correct text, DOM Id: A__showsubmen__23, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: I can see MEN menu link contains correct text, DOM Id: A__showsubmen__25, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: I can see WOMEN menu link contains correct text, DOM Id: A__showsubmen__27, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: I can see RUNNING menu link contains correct text, DOM Id: A__showsubmen__29, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: I can see TRAINING menu link contains correct text, DOM Id: A__showsubmen__31, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Search bar is present on the page, DOM Id: INPUTtext____42, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Search bar contains 'Search over 10,000 shoes', DOM Id: INPUTtext____42, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Search bar icon is present on the page, DOM Id: I__headericon__44, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Header access link is present on the page, DOM Id: A__accesslink__56, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Favourite link is present on the page, DOM Id: A__wishlist__52, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Shopping cart link is present on the page, DOM Id: A__cartbt__49, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Filter block is present on the page, DOM Id: filter_col, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Filter button is present on the page, DOM Id: filterBtn, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Reset button is present on the page, DOM Id: resetBtn, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Filter icon is not present on the page, DOM Id: A__openfilter__206, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Filter icon description is not present on the page, DOM Id: SPAN____208, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Tileview grid button is present on the page, DOM Id: I__tiviewgrid__202, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Tileview list button is present on the page, DOM Id: I__tiviewlist__204, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Keep in touch is present on the page, DOM Id: H3____447, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Quick links is present on the page, DOM Id: H3____421, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____425, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____427, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____429, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____431, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____433, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____435, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Contacts link is present on the page, DOM Id: H3____437, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Email field is present on the page, DOM Id: email_newsletter, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Email field contains correct text, DOM Id: email_newsletter, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test2, Test Name: I see black shoes when filter for black shoes, DOM Id: IMG__imgfluid__215, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test2, Test Name: I see correct names for filtered shoes, DOM Id: H3____218, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test2, Test Name: I see correct names for filtered shoes, DOM Id: H3____241, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test2, Test Name: I see correct new prices for filtered shoes, DOM Id: SPAN__newprice__220, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test2, Test Name: I see correct new prices for filtered shoes, DOM Id: SPAN__newprice__243, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test2, Test Name: I see correct old price for the first filtered shoe, DOM Id: SPAN__oldprice__221, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test2, Test Name: I see the discount label for the first filtered shoe, DOM Id: SPAN__ribbonoff__212, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test2, Test Name: I see the 1 day left label for the first filtered shoe, DOM Id: DIV__countdown__216, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: The shoe has correct title, DOM Id: shoe_name, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see the big picture for the shoe, DOM Id: shoe_img, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see the reviews bar, DOM Id: SPAN__rating__76, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see the description bar, DOM Id: P____83, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see correct new price, DOM Id: new_price, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see correct old price, DOM Id: old_price, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see the discount label, DOM Id: discount, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see the discount label has correct description, DOM Id: discount, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see the size selector contains small(s), DOM Id: SELECTselect-one__wide__93, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see the quantity selector, DOM Id: DIV__colxlcollg__101, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see the quantity selector input contains 1, DOM Id: quantity_1, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see the add to cart button, DOM Id: A__btn__114, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Logo is present on the page, DOM Id: IMG____9, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: I can see HOME menu link contains correct text, DOM Id: A__showsubmen__23, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: I can see MEN menu link contains correct text, DOM Id: A__showsubmen__25, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: I can see WOMEN menu link contains correct text, DOM Id: A__showsubmen__27, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: I can see RUNNING menu link contains correct text, DOM Id: A__showsubmen__29, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: I can see TRAINING menu link contains correct text, DOM Id: A__showsubmen__31, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Search bar is present on the page, DOM Id: INPUTtext____42, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Search bar contains 'Search over 10,000 shoes', DOM Id: INPUTtext____42, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Search bar icon is present on the page, DOM Id: I__headericon__44, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Header access link is present on the page, DOM Id: A__accesslink__56, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Favourite link is present on the page, DOM Id: A__wishlist__52, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Shopping cart link is present on the page, DOM Id: A__cartbt__49, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Filter block is present on the page, DOM Id: filter_col, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Filter button is present on the page, DOM Id: filterBtn, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Reset button is present on the page, DOM Id: resetBtn, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Filter icon is not present on the page, DOM Id: A__openfilter__206, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Filter icon description is not present on the page, DOM Id: SPAN____208, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Tileview grid button is present on the page, DOM Id: I__tiviewgrid__202, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Tileview list button is present on the page, DOM Id: I__tiviewlist__204, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Keep in touch is present on the page, DOM Id: H3____447, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Quick links is present on the page, DOM Id: H3____421, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____425, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____427, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____429, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____431, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____433, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____435, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Contacts link is present on the page, DOM Id: H3____437, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Email field is present on the page, DOM Id: email_newsletter, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Email field contains correct text, DOM Id: email_newsletter, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test2, Test Name: I see black shoes when filter for black shoes, DOM Id: IMG__imgfluid__215, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test2, Test Name: I see correct names for filtered shoes, DOM Id: H3____218, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test2, Test Name: I see correct names for filtered shoes, DOM Id: H3____241, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test2, Test Name: I see correct new prices for filtered shoes, DOM Id: SPAN__newprice__220, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test2, Test Name: I see correct new prices for filtered shoes, DOM Id: SPAN__newprice__243, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test2, Test Name: I see correct old price for the first filtered shoe, DOM Id: SPAN__oldprice__221, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test2, Test Name: I see the discount label for the first filtered shoe, DOM Id: SPAN__ribbonoff__212, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test2, Test Name: I see the 1 day left label for the first filtered shoe, DOM Id: DIV__countdown__216, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: The shoe has correct title, DOM Id: shoe_name, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see the big picture for the shoe, DOM Id: shoe_img, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see the reviews bar, DOM Id: SPAN__rating__76, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see the description bar, DOM Id: P____83, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see correct new price, DOM Id: new_price, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see correct old price, DOM Id: old_price, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see the discount label, DOM Id: discount, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see the discount label has correct description, DOM Id: discount, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see the size selector contains small(s), DOM Id: SELECTselect-one__wide__93, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see the quantity selector, DOM Id: DIV__colxlcollg__101, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see the quantity selector input contains 1, DOM Id: quantity_1, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see the add to cart button, DOM Id: A__btn__114, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Logo is present on the page, DOM Id: IMG____9, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: I can see HOME menu link contains correct text, DOM Id: A__showsubmen__23, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: I can see MEN menu link contains correct text, DOM Id: A__showsubmen__25, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: I can see WOMEN menu link contains correct text, DOM Id: A__showsubmen__27, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: I can see RUNNING menu link contains correct text, DOM Id: A__showsubmen__29, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: I can see TRAINING menu link contains correct text, DOM Id: A__showsubmen__31, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Search bar is present on the page, DOM Id: INPUTtext____42, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Search bar contains 'Search over 10,000 shoes', DOM Id: INPUTtext____42, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Search bar icon is present on the page, DOM Id: I__headericon__44, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Header access link is present on the page, DOM Id: A__accesslink__56, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Favourite link is present on the page, DOM Id: A__wishlist__52, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Shopping cart link is present on the page, DOM Id: A__cartbt__49, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Filter block is present on the page, DOM Id: filter_col, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Filter button is present on the page, DOM Id: filterBtn, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Reset button is present on the page, DOM Id: resetBtn, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Filter icon is not present on the page, DOM Id: A__openfilter__206, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Filter icon description is not present on the page, DOM Id: SPAN____208, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Tileview grid button is present on the page, DOM Id: I__tiviewgrid__202, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Tileview list button is present on the page, DOM Id: I__tiviewlist__204, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Keep in touch is present on the page, DOM Id: H3____447, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Quick links is present on the page, DOM Id: H3____421, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____425, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____427, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____429, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____431, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____433, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____435, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Contacts link is present on the page, DOM Id: H3____437, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Email field is present on the page, DOM Id: email_newsletter, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Email field contains correct text, DOM Id: email_newsletter, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test2, Test Name: I see black shoes when filter for black shoes, DOM Id: IMG__imgfluid__215, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test2, Test Name: I see correct names for filtered shoes, DOM Id: H3____218, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test2, Test Name: I see correct names for filtered shoes, DOM Id: H3____241, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test2, Test Name: I see correct new prices for filtered shoes, DOM Id: SPAN__newprice__220, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test2, Test Name: I see correct new prices for filtered shoes, DOM Id: SPAN__newprice__243, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test2, Test Name: I see correct old price for the first filtered shoe, DOM Id: SPAN__oldprice__221, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test2, Test Name: I see the discount label for the first filtered shoe, DOM Id: SPAN__ribbonoff__212, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test2, Test Name: I see the 1 day left label for the first filtered shoe, DOM Id: DIV__countdown__216, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: The shoe has correct title, DOM Id: shoe_name, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see the big picture for the shoe, DOM Id: shoe_img, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see the reviews bar, DOM Id: SPAN__rating__76, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see the description bar, DOM Id: P____83, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see correct new price, DOM Id: new_price, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see correct old price, DOM Id: old_price, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see the discount label, DOM Id: discount, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see the discount label has correct description, DOM Id: discount, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see the size selector contains small(s), DOM Id: SELECTselect-one__wide__93, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see the quantity selector, DOM Id: DIV__colxlcollg__101, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see the quantity selector input contains 1, DOM Id: quantity_1, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test3, Test Name: I see the add to cart button, DOM Id: A__btn__114, Browser: Firefox 77.0 / Windows 10, Viewport: 1200x700, Device: Laptop, Status: passed
+"Task: test1, Test Name: Logo is present on the center, DOM Id: IMG____9, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: I can see HOME menu link contains correct text, DOM Id: A__showsubmen__23, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: I can see MEN menu link contains correct text, DOM Id: A__showsubmen__25, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: I can see WOMEN menu link contains correct text, DOM Id: A__showsubmen__27, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: I can see RUNNING menu link contains correct text, DOM Id: A__showsubmen__29, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: I can see TRAINING menu link contains correct text, DOM Id: A__showsubmen__31, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Search bar is present on the page, DOM Id: INPUTtext____42, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Search bar contains 'Search over 10,000 shoes', DOM Id: INPUTtext____42, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Search bar icon is present on the page, DOM Id: I__headericon__44, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Header access link is present on the page, DOM Id: A__accesslink__56, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Favourite link is present on the page, DOM Id: A__wishlist__52, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Shopping cart link is present on the page, DOM Id: A__cartbt__49, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Filter icon is present on the page, DOM Id: A__openfilter__206, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Filter icon description contains 'Filters', DOM Id: SPAN____208, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Tileview grid button is not present on the page, DOM Id: I__tiviewgrid__202, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Tileview list button is not present on the page, DOM Id: I__tiviewlist__204, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Keep in touch is present on the page, DOM Id: H3____447, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Quick links is present on the page, DOM Id: H3____421, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____425, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____427, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____429, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____431, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____433, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____435, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Contacts link is present on the page, DOM Id: H3____437, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Email field is present on the page, DOM Id: email_newsletter, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Email field contains correct text, DOM Id: email_newsletter, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test2, Test Name: I see black shoes when filter for black shoes, DOM Id: IMG__imgfluid__215, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test2, Test Name: I see correct names for filtered shoes, DOM Id: H3____218, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test2, Test Name: I see correct names for filtered shoes, DOM Id: H3____241, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test2, Test Name: I see correct new prices for filtered shoes, DOM Id: SPAN__newprice__220, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test2, Test Name: I see correct new prices for filtered shoes, DOM Id: SPAN__newprice__243, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test2, Test Name: I see correct old price for the first filtered shoe, DOM Id: SPAN__oldprice__221, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test2, Test Name: I see the discount label for the first filtered shoe, DOM Id: SPAN__ribbonoff__212, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test2, Test Name: I see the 1 day left label for the first filtered shoe, DOM Id: DIV__countdown__216, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: The shoe has correct title, DOM Id: shoe_name, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see the big picture for the shoe, DOM Id: shoe_img, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see reviews bar, DOM Id: SPAN__rating__76, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see description bar, DOM Id: P____83, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see correct new price, DOM Id: new_price, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see correct old price, DOM Id: old_price, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see the discount label, DOM Id: discount, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see the discount label has correct description, DOM Id: discount, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see the size selector contains small(s), DOM Id: SELECTselect-one__wide__93, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see the quantity selector, DOM Id: DIV__colxlcollg__101, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see the quantity selector input contains 1, DOM Id: quantity_1, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see the add to cart button, DOM Id: A__btn__114, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Logo is present on the center, DOM Id: IMG____9, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: I can see HOME menu link contains correct text, DOM Id: A__showsubmen__23, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: I can see MEN menu link contains correct text, DOM Id: A__showsubmen__25, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: I can see WOMEN menu link contains correct text, DOM Id: A__showsubmen__27, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: I can see RUNNING menu link contains correct text, DOM Id: A__showsubmen__29, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: I can see TRAINING menu link contains correct text, DOM Id: A__showsubmen__31, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Search bar is present on the page, DOM Id: INPUTtext____42, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Search bar contains 'Search over 10,000 shoes', DOM Id: INPUTtext____42, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Search bar icon is present on the page, DOM Id: I__headericon__44, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Header access link is present on the page, DOM Id: A__accesslink__56, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Favourite link is present on the page, DOM Id: A__wishlist__52, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Shopping cart link is present on the page, DOM Id: A__cartbt__49, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Filter icon is present on the page, DOM Id: A__openfilter__206, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Filter icon description contains 'Filters', DOM Id: SPAN____208, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Tileview grid button is not present on the page, DOM Id: I__tiviewgrid__202, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Tileview list button is not present on the page, DOM Id: I__tiviewlist__204, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Keep in touch is present on the page, DOM Id: H3____447, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Quick links is present on the page, DOM Id: H3____421, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____425, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____427, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____429, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____431, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____433, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____435, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Contacts link is present on the page, DOM Id: H3____437, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Email field is present on the page, DOM Id: email_newsletter, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Email field contains correct text, DOM Id: email_newsletter, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test2, Test Name: I see black shoes when filter for black shoes, DOM Id: IMG__imgfluid__215, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test2, Test Name: I see correct names for filtered shoes, DOM Id: H3____218, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test2, Test Name: I see correct names for filtered shoes, DOM Id: H3____241, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test2, Test Name: I see correct new prices for filtered shoes, DOM Id: SPAN__newprice__220, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test2, Test Name: I see correct new prices for filtered shoes, DOM Id: SPAN__newprice__243, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test2, Test Name: I see correct old price for the first filtered shoe, DOM Id: SPAN__oldprice__221, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test2, Test Name: I see the discount label for the first filtered shoe, DOM Id: SPAN__ribbonoff__212, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test2, Test Name: I see the 1 day left label for the first filtered shoe, DOM Id: DIV__countdown__216, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: The shoe has correct title, DOM Id: shoe_name, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see the big picture for the shoe, DOM Id: shoe_img, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see reviews bar, DOM Id: SPAN__rating__76, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see description bar, DOM Id: P____83, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see correct new price, DOM Id: new_price, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see correct old price, DOM Id: old_price, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see the discount label, DOM Id: discount, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see the discount label has correct description, DOM Id: discount, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see the size selector contains small(s), DOM Id: SELECTselect-one__wide__93, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see the quantity selector, DOM Id: DIV__colxlcollg__101, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see the quantity selector input contains 1, DOM Id: quantity_1, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see the add to cart button, DOM Id: A__btn__114, Browser: Microsoft Edge 83.0.478.58 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Logo is present on the center, DOM Id: IMG____9, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: I can see HOME menu link contains correct text, DOM Id: A__showsubmen__23, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: I can see MEN menu link contains correct text, DOM Id: A__showsubmen__25, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: I can see WOMEN menu link contains correct text, DOM Id: A__showsubmen__27, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: I can see RUNNING menu link contains correct text, DOM Id: A__showsubmen__29, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: I can see TRAINING menu link contains correct text, DOM Id: A__showsubmen__31, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Search bar is present on the page, DOM Id: INPUTtext____42, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Search bar contains 'Search over 10,000 shoes', DOM Id: INPUTtext____42, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Search bar icon is present on the page, DOM Id: I__headericon__44, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Header access link is present on the page, DOM Id: A__accesslink__56, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Favourite link is present on the page, DOM Id: A__wishlist__52, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Shopping cart link is present on the page, DOM Id: A__cartbt__49, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Filter icon is present on the page, DOM Id: A__openfilter__206, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Filter icon description contains 'Filters', DOM Id: SPAN____208, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Tileview grid button is not present on the page, DOM Id: I__tiviewgrid__202, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Tileview list button is not present on the page, DOM Id: I__tiviewlist__204, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Keep in touch is present on the page, DOM Id: H3____447, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Quick links is present on the page, DOM Id: H3____421, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____425, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____427, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____429, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____431, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____433, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Quick links contains correct links, DOM Id: A____435, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Contacts link is present on the page, DOM Id: H3____437, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Email field is present on the page, DOM Id: email_newsletter, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Email field contains correct text, DOM Id: email_newsletter, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test2, Test Name: I see black shoes when filter for black shoes, DOM Id: IMG__imgfluid__215, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test2, Test Name: I see correct names for filtered shoes, DOM Id: H3____218, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test2, Test Name: I see correct names for filtered shoes, DOM Id: H3____241, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test2, Test Name: I see correct new prices for filtered shoes, DOM Id: SPAN__newprice__220, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test2, Test Name: I see correct new prices for filtered shoes, DOM Id: SPAN__newprice__243, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test2, Test Name: I see correct old price for the first filtered shoe, DOM Id: SPAN__oldprice__221, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test2, Test Name: I see the discount label for the first filtered shoe, DOM Id: SPAN__ribbonoff__212, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test2, Test Name: I see the 1 day left label for the first filtered shoe, DOM Id: DIV__countdown__216, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: The shoe has correct title, DOM Id: shoe_name, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see the big picture for the shoe, DOM Id: shoe_img, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see reviews bar, DOM Id: SPAN__rating__76, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see description bar, DOM Id: P____83, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see correct new price, DOM Id: new_price, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see correct old price, DOM Id: old_price, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see the discount label, DOM Id: discount, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see the discount label has correct description, DOM Id: discount, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see the size selector contains small(s), DOM Id: SELECTselect-one__wide__93, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see the quantity selector, DOM Id: DIV__colxlcollg__101, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see the quantity selector input contains 1, DOM Id: quantity_1, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test3, Test Name: I see the add to cart button, DOM Id: A__btn__114, Browser: Firefox 77.0 / Windows 10, Viewport: 768x700, Device: Tablet, Status: passed
+"Task: test1, Test Name: Logo is present on the center, DOM Id: IMG____9, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test1, Test Name: I can see HOME menu link contains correct text, DOM Id: A__showsubmen__23, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test1, Test Name: I can see MEN menu link contains correct text, DOM Id: A__showsubmen__25, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test1, Test Name: I can see WOMEN menu link contains correct text, DOM Id: A__showsubmen__27, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test1, Test Name: I can see RUNNING menu link contains correct text, DOM Id: A__showsubmen__29, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test1, Test Name: I can see TRAINING menu link contains correct text, DOM Id: A__showsubmen__31, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test1, Test Name: Search bar is not present on the page, DOM Id: INPUTtext____42, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test1, Test Name: Header access link is present on the page, DOM Id: A__accesslink__56, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test1, Test Name: Favourite link is not present on the page, DOM Id: A__wishlist__52, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test1, Test Name: Shopping cart link is present on the page, DOM Id: A__cartbt__49, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test1, Test Name: Filter icon is present on the page, DOM Id: A__openfilter__206, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test1, Test Name: Filter icon description is not present on the page, DOM Id: SPAN____208, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test1, Test Name: Keep in touch is present on the page, DOM Id: H3____447, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test1, Test Name: Quick links is present on the page, DOM Id: H3____421, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test1, Test Name: Contacts link is present on the page, DOM Id: H3____437, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test1, Test Name: Contacts links text is not visible, DOM Id: LI____440, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test1, Test Name: Contacts links text is not visible, DOM Id: LI____443, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test1, Test Name: Email field is not present on the page, DOM Id: email_newsletter, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test2, Test Name: I see black shoes when filter for black shoes, DOM Id: IMG__imgfluid__215, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test2, Test Name: I see correct names for filtered shoes, DOM Id: H3____218, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test2, Test Name: I see correct names for filtered shoes, DOM Id: H3____241, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test2, Test Name: I see correct new prices for filtered shoes, DOM Id: SPAN__newprice__220, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test2, Test Name: I see correct new prices for filtered shoes, DOM Id: SPAN__newprice__243, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test2, Test Name: I see correct old price for the first filtered shoe, DOM Id: SPAN__oldprice__221, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test2, Test Name: I see the discount label for the first filtered shoe, DOM Id: SPAN__ribbonoff__212, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test2, Test Name: I see the 1 day left label for the first filtered shoe, DOM Id: DIV__countdown__216, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test3, Test Name: The shoe has correct title, DOM Id: shoe_name, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test3, Test Name: I see the big picture for the shoe, DOM Id: shoe_img, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test3, Test Name: I see the reviews bar, DOM Id: SPAN__rating__76, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test3, Test Name: I see the description bar, DOM Id: P____83, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test3, Test Name: I see correct new price, DOM Id: new_price, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test3, Test Name: I see correct old price, DOM Id: old_price, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test3, Test Name: I see the discount label, DOM Id: discount, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test3, Test Name: I see the discount label has correct description, DOM Id: discount, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test3, Test Name: I see the size selector contains small(s), DOM Id: SELECTselect-one__wide__93, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test3, Test Name: I see the quantity selector, DOM Id: DIV__colxlcollg__101, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed
+"Task: test3, Test Name: I see the quantity selector input contains 1, DOM Id: quantity_1, Browser: Chrome 83.0.4103.116 / Windows 10, Viewport: 500x700, Device: Mobile, Status: passed

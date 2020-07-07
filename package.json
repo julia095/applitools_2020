@@ -1,0 +1,37 @@
+{
+  "name": "testcafe-cucumber",
+  "version": "0.1.0",
+  "description": "An integration of TestCafe and CucumberJS",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spotlight-reporting/regression-test-suite"
+  },
+  "scripts": {
+    "test": "del-cli Reports/* && gulp createReportsFolder && cucumber-js.cmd src/features --require-module ts-node/register --require src/**/*.ts -f json:reports/cucumber_report.json"
+  },
+  "devDependencies": {
+    "@types/cucumber": "~6.0.0",
+    "@types/node": "~13.1.4",
+    "base64-img": "~1.0.4",
+    "cucumber": "~6.0.5",
+    "cucumber-html-reporter": "~5.1.0",
+    "cucumber-tsflow": "^3.2.0",
+    "dotenv": "^8.2.0",
+    "gulp": "^4.0.2",
+    "screenshot-desktop": "~1.10.0",
+    "testcafe": "~1.7.1",
+    "testcafe-reporter-html": "~1.4.5",
+    "ts-node": "~8.5.4",
+    "tslint": "^5.20.1",
+    "tslint-config-standard": "~9.0.0",
+    "typescript": "~3.7.4"
+  },
+  "dependencies": {
+    "@applitools/eyes-images": "^4.14.0",
+    "@applitools/eyes-testcafe": "^1.9.0",
+    "@babel/core": "^7.10.4",
+    "del-cli": "^3.0.1",
+    "uniqid": "^5.2.0",
+    "yargs": "^15.4.0"
+  }
+}
